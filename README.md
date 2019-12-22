@@ -14,7 +14,7 @@ Aplicação conceitual de chat desenvolvida em Java utilizando conceitos de mult
 
 ## Uso
 
-1. Abrir o Eclipse e importar o projeto (File > Open Projects from File System > Botão "Directory" > selecione a pasta > Botão "Finish".
+1. Abrir o Eclipse e importar o projeto (File > Open Projects from File System > Botão "Directory" > selecione a pasta > Botão "Finish").
 2. Executar o arquivo Servidor.java
 3. Executar quantas vezes desejar o arquivo Cliente.java
 
