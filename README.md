@@ -1,8 +1,6 @@
 # java-chat-multithead
 Aplicação de chat desenvolvida em Java utilizando conceitos de multithread e sockets.
 
-1. Inicializar as Classes: Servidor e Cliente
-
 # Chat Java Multithread
 
 Aplicação conceitual de chat desenvolvida em Java utilizando conceitos de multithread e sockets. A aplicação simula um chat em grupo onde clientes enviam e recebem mensagens em tempo real. Tecnicamente, um cliente envia uma mensagem ao servidor, que por sua vez dispara esta mensagem pra todos os clientes conectados ao servidor através de sockets. Uma interface simples foi desenvolvida com Swing para facilitar a visualização do chat
